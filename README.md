@@ -27,3 +27,7 @@ Physical Activity Distribution (Donut Chart): Highlights the relationship betwee
 Helps identify age groups with higher stress or lower mood levels.
 Supports targeted wellness initiatives and mental health interventions.
 Enables stakeholders to monitor overall well-being trends at a glance.
+
+
+**Dashboard Preview**
+https://github.com/manshavEI/mental-health-analysis-Dashboard/blob/main/Snapshot%20of%20Dashboard.png
